@@ -1,0 +1,264 @@
+.wd-body-background{
+    background-color: black;
+    border-left: 16px;
+    border-right: 1500px;
+    border-color: black;/*rgb(47,51,54);*/
+    border-style: groove;
+    color: white;
+}
+
+.wd-padded-left{
+    margin-left: 16px;
+}
+
+.wd-background{
+    background-color: darkgrey;
+    color:white
+}
+
+.wd-settings {
+    position: absolute;
+    left: 416px;
+    top: 16px
+    
+}
+
+input[type="text"], textarea { 
+    margin-left: 16px;
+    width: 350px; 
+    height: 40px;
+    border-radius: 50px;
+}
+
+.wd-first-link{
+    position: absolute; 
+    color: rgb(29,161,242);
+    font-size: 15px;
+    padding:16px;
+}
+
+.wd-other-links{
+    position: absolute;
+    color: rgb(110,118,125);
+    font-size: 15px;
+    padding-right: 16px;
+    padding-left: 80px;
+    padding-top: 16px;
+    padding-bottom: 16px;
+}
+.wd-other-links2{
+    position: absolute;
+    color: rgb(110,118,125);
+    font-size: 15px;
+    padding-right: 16px;
+    padding-left: 144px;
+    padding-top: 16px;
+}
+
+.wd-other-links3{
+    position: absolute;
+    color: rgb(110,118,125);
+    font-size: 15px;
+    padding-right: 16px;
+    padding-left: 220px;
+    padding-top: 16px;
+}
+
+.wd-other-links4{
+    position: absolute;
+    color: rgb(110,118,125);
+    font-size: 15px;
+    padding-right: 16px;
+    padding-left: 272px;
+    padding-top: 16px;
+}
+
+.wd-other-links5{
+    position: absolute;
+    color: rgb(110,118,125);
+    font-size: 15px;
+    padding-right: 16px;
+    padding-left: 336px;
+    padding-top: 16px;
+}
+
+.wd-trend{
+    position: absolute;
+    color: rgb(110,118,125);
+    font-size: 13px;
+    padding-right: 16px;
+    padding-left: 16px;
+    padding-top: 32px;
+    padding-bottom: 16px;
+}
+
+.wd-trend2{
+    position: absolute;
+    color: white;
+    font-size: 15px;
+    padding-right: 16px;
+    padding-left: 16px;
+    padding-top: 48px;
+    padding-bottom: 16px;
+}
+
+.wd-trend3{
+    position: absolute;
+    color: rgb(110,118,125);
+    font-size: 13px;
+    padding-right: 16px;
+    padding-left: 16px;
+    padding-top: 72px;
+    padding-bottom: 16px;
+}
+
+.wd-trends{
+    position: absolute;
+    color: rgb(110,118,125);
+    font-size: 13px;
+    padding-right: 16px;
+    padding-left: 16px;
+    padding-top: 100px;
+    padding-bottom: 16px;
+}
+
+.wd-trends2{
+    position: absolute;
+    color: white;
+    font-size: 15px;
+    padding-right: 16px;
+    padding-left: 16px;
+    padding-top: 116px;
+    padding-bottom: 16px;
+}
+
+.wd-trends3{
+    position: absolute;
+    color: rgb(110,118,125);
+    font-size: 13px;
+    padding-right: 16px;
+    padding-left: 16px;
+    padding-top: 140px;
+    padding-bottom: 16px;
+}
+
+.wd-trendy{
+    position: absolute;
+    color: white;
+    font-size: 15px;
+    padding-right: 16px;
+    padding-left: 16px;
+    padding-top: 164px;
+    padding-bottom: 16px;
+}
+
+.wd-trendy2{
+    position: absolute;
+    color: white;
+    font-size: 16px;
+    padding-right: 16px;
+    padding-left: 16px;
+    padding-top: 186px;
+    padding-bottom: 16px;
+}
+
+.wd-trendy3{
+    position: absolute;
+    color: rgb(110,118,125);
+    font-size: 13px;
+    padding-right: 16px;
+    padding-left: 16px;
+    padding-top: 250px;
+    padding-bottom: 16px;
+}
+
+.wd-trendy4{
+    position: absolute;
+    color: white;
+    font-size: 15px;
+    padding-right: 16px;
+    padding-left: 16px;
+    padding-top: 266px;
+    padding-bottom: 16px;
+}
+
+.wd-trendy5{
+    position: absolute;
+    color: white;
+    font-size: 15px;
+    padding-right: 16px;
+    padding-left: 16px;
+    padding-top: 316px;
+    padding-bottom: 16px;
+}
+
+.wd-trendy6{
+    position: absolute;
+    color:white;
+    font-size: 15px;
+    padding-right: 16px;
+    padding-left: 16px;
+    padding-top: 332px;
+    padding-bottom: 16px;
+}
+.wd-right{
+    position: absolute;
+    padding-right: 16px;
+    left: 416px;
+    padding-top: 186px;
+    padding-bottom: 16px;
+    width: 40;
+    height: 40;
+}
+.wd-right2{
+    position: absolute;
+    padding-right: 16px;
+    left: 416px;
+    padding-top: 266px;
+    padding-bottom: 16px;
+    width: 40;
+    height: 40;
+}
+
+.wd-right3{
+    position: absolute;
+    padding-right: 16px;
+    left: 416px;
+    padding-top: 332px;
+    padding-bottom: 16px;
+    width: 40;
+    height: 40;
+}
+
+.wd-trend7{
+    position: absolute;
+    color: rgb(110,118,125);
+    font-size: 13px;
+    padding-right: 16px;
+    padding-left: 16px;
+    padding-top: 366px;
+    padding-bottom: 16px;
+}
+
+.wd-trend8{
+    position: absolute;
+    color: white;
+    font-size: 15px;
+    padding-right: 16px;
+    padding-left: 16px;
+    padding-top: 382px;
+    padding-bottom: 16px;
+}
+
+.wd-trend9{
+    position: absolute;
+    color: rgb(110,118,125);
+    font-size: 13px;
+    padding-right: 16px;
+    padding-left: 16px;
+    padding-top: 406px;
+    padding-bottom: 16px;
+}
+input[type="text"], placeholder {            
+    padding-left: 30px; 
+} 

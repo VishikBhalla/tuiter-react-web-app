@@ -1,0 +1,50 @@
+.wd-body-background{
+    background-color: black;
+    border-left: 16px;
+    border-right: 1500px;
+    border-color: black;/*rgb(47,51,54);*/
+    border-style: groove;
+    color: white;
+}
+
+.wd-title{
+    position: absolute;
+    font-size: 20px;
+    color: white;
+}
+
+.wd-title1{
+    color: lightgray;
+    font-size: 13px;
+    padding-top: 36px;
+}
+
+.wd-trend1{
+    position: absolute;
+    color: white;
+    font-size: 13px;
+    padding-right: 16px;
+    padding-left: 25px;
+    padding-top: 16px;
+    padding-bottom: 16px;
+}
+
+.wd-trend2{
+    position: absolute;
+    color: rgb(110,118,125);
+    font-size: 13px;
+    padding-right: 16px;
+    padding-left: 109px;
+    padding-top: 15px;
+    padding-bottom: 16px;
+}
+
+.wd-trend3{
+    position: absolute;
+    color: white;
+    font-size: 13px;
+    padding-right: 16px;
+    padding-left: 25px;
+    padding-top: 30px;
+    padding-bottom: 16px;
+}
